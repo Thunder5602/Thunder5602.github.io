@@ -54,3 +54,13 @@ footer{
     bottom:0;
     position: fixed;
 }
+body{
+    background-color: black;
+    color:white;
+}
+.content{
+    text-align: center;
+}
+.question{
+    color: aqua;
+}
