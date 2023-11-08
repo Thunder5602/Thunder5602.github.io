@@ -64,3 +64,13 @@ body{
 .question{
     color: aqua;
 }
+.content p{
+    font-size: 20px;
+}
+.content img{
+    padding:5px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border:#6495ed 2px dashed;
+    border-radius: 100px;
+}
