@@ -74,3 +74,6 @@ body{
     border:#6495ed 2px dashed;
     border-radius: 100px;
 }
+.content form{
+    width: max-content
+}
