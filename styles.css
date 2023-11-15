@@ -91,3 +91,12 @@ body{
     text-align: center;
     line-height: 2;
 }
+.form-image{
+    align-items: right;
+}
+.form-image img{
+    align-self: right;
+}
+.form{
+    float: left;
+}
