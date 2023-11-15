@@ -80,7 +80,7 @@ body{
     border-radius: 100px;
 }
 .content form{
-    width: max-content
+    width: max-content;
 }   
 .center{
     margin-left: auto;
@@ -91,12 +91,9 @@ body{
     text-align: center;
     line-height: 2;
 }
-.form-image{
-    align-items: right;
-}
-.form-image img{
-    align-self: right;
-}
-.form{
-    float: left;
+
+.content form{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
